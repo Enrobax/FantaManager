@@ -1,2 +1,2 @@
 # FantaManager
-Fantasy football app
+<h1>FantaManager</h1>
