@@ -1,0 +1,2 @@
+# FantaManager
+Fantasy football app
