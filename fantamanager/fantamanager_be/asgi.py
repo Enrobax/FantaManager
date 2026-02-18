@@ -1,5 +1,5 @@
 """
-ASGI config for fantamanager project.
+ASGI config for fantamanager_be project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'fantamanager.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'fantamanager_be.settings')
 
 application = get_asgi_application()
